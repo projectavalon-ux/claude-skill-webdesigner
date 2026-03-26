@@ -83,3 +83,8 @@ It is a **behavior package** for Claude that makes web-design output more struct
 ## Authoring goal
 
 This repository is designed to look credible, useful, and practical for open-source AI workflow ecosystems.
+
+## Updates
+
+- Initial version of the webdesigner skill
+- Active development and improvements
