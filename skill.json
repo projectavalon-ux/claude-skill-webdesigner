@@ -1,0 +1,35 @@
+{
+  "name": "webdesigner",
+  "version": "0.1.0",
+  "title": "Claude Skill: WebDesigner",
+  "description": "A premium Claude skill for high-end web design, mobile-first UX, premium layout planning, and conversion-aware website structure.",
+  "category": "design",
+  "tags": [
+    "claude-skill",
+    "webdesign",
+    "ux",
+    "ui",
+    "mobile-first",
+    "conversion",
+    "branding"
+  ],
+  "recommended_for": [
+    "landing pages",
+    "service websites",
+    "premium brand websites",
+    "homepage redesign",
+    "section planning",
+    "copy hierarchy"
+  ],
+  "entrypoint": "system-prompt.md",
+  "files": [
+    "system-prompt.md",
+    "docs/installation.md",
+    "docs/usage.md",
+    "docs/design-principles.md",
+    "docs/quality-checklist.md",
+    "examples/example-request-1.md",
+    "examples/example-request-2.md",
+    "examples/example-output-outline.md"
+  ]
+}
